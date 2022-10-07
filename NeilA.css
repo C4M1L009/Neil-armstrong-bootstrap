@@ -1,0 +1,78 @@
+body{
+    margin:0;
+    text-align:center;
+}
+.NAwel2{
+    border-radius:50%;
+    width:400px;
+    height: 400px;
+}
+#NAwel{ 
+    bottom:0;
+    background:linear-gradient(#5f92e3 0%,#9464e8 100%);
+    display:table;
+    width:100%;
+    height:100%;
+}
+h1{
+font-size:40px;
+font-family:sans-serif;
+font-weight:300;
+}
+h2{
+    font-size:30px;
+    font-family:monospace;
+    font-weight:300;
+    }
+    .parallax-inner{
+        display:table-cell;
+        vertical-align:middle;
+    }
+    #NAbio{
+        font-family: 'Dancing Script', cursive;
+        font-size:24px;
+        padding:50px;
+    }
+    #Neil{
+        font-family: 'Lobster', cursive;
+        padding:50px;
+    }
+    .line{
+        height:6px;
+        background-color: #6466e8;
+        width:70px;
+        margin:8px auto;
+    }
+    .na{
+        width: 400px;
+        height: 900px;
+        border-style: solid;
+        border-color: #9464e8;
+    }
+    #h2{
+        font-family:'Dancing Script', cursive;
+    }
+    #h1{
+        font-family: 'Dancing Script', cursive;
+    }
+      
+    a{
+        text-decoration:none;
+    }
+    
+    #NAtext a { text-decoration: underline !important; color: rgb(198, 144, 231) !important; }
+     #NAcon{ background:rgb(64, 199, 226); }
+     #NAcon iframe{ width: 100%; }
+     .contact-1 h3{ display: inline; }
+
+     img{
+         border: 2px solid #8f0d66;
+          width: 250px;
+           height: 250px;
+           margin:20px;
+     }
+     .my_nav_bar{
+        position:sticky;
+        top:0;
+        z-index:99999;
+      }
